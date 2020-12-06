@@ -8,9 +8,9 @@ I wrote VBA code to that allows someone to gain insight on a stocks performance 
 
 Below are two images that show help to understand how some stocks performed in 2017 and 2018. The data was gathered using the refactored VBA code.
 
-https://github.com/mansal2487/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG
+![alt text](https://github.com/mansal2487/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
-https://github.com/mansal2487/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG
+![alt text](https://github.com/mansal2487/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 As you can clearly see, these stocks collectively had a higher return rate in 2017 than they did in 2018. A Misnky Moment may be the cause of this. Named after economist Hyman Minsky, a Minsky Moment refers to the idea that long enough periods of bullish speculation will eventually lead to crisis.
 
